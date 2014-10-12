@@ -1,0 +1,75 @@
+body {
+    background-color: #f3fbf5;
+}
+
+h1 { 
+    font-size: 36px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    position: relative;
+}
+
+.header {
+    margin-left: 320px;
+}
+
+h2 { 
+    font-size: 26px;
+    position: relative;
+}
+
+h3 {
+    font-size: 20px;
+    font-style: oblique;
+    vertical-align: middle;
+    text-align: right;
+    margin-right: 80px;
+    color: #999999;
+}
+
+.page-wrap {
+    width: 800px;
+    margin: 10px auto 10px;
+    alignment-adjust: central;
+}
+
+.pic {
+    float: left;
+    vertical-align: bottom;
+    width: 33%;
+    margin-left: 40px;
+}
+
+.resume { 
+    margin-right: 40px;
+    float: left;
+    font-family: serif;
+    font-style: italic;
+    font-size: 14px;
+}
+
+table {
+    margin-top: 135px;
+    alignment-adjust: middle;
+    border-collapse: separate;
+    border-spacing: 8px;
+}
+
+tr {
+    margin-bottom: 10px;
+}
+
+td.left {
+    width: 33%;
+    text-align: center;
+    vertical-align: middle;
+    border-right: 1px solid #666;
+}
+td.mid {
+    width: 1%;
+    border-left: 1px solid #666;
+}
+td.right {
+    width: 66%;
+    text-align:left;
+}
